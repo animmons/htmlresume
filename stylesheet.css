@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /* Table of Contents:
 
 1. Header 
@@ -25,6 +26,46 @@ body {
 
 .job {
 	color: #CA7794;
+=======
+
+footer p {
+	color: white;
+	font-size: 20px;
+}
+
+a:hover {
+	/* color: #Fe4365; */
+	color: #edb330;
+}
+
+
+h1 {
+	/* color: #FC9D9A; */ 
+	color: #CA7794;
+	font-size: 48px; 
+	display: block;
+	position: relative;
+	margin: -17px;
+}
+
+h3 {
+	color: #5EACC0;
+	font-size: 22px;
+	text-align: center;
+}
+
+
+a {
+	font-size: 18px;
+	text-decoration: none;
+	/* color: #f9cdad; */
+	color: #CA7794;
+}
+
+p, li {
+	color: #545454;
+	font-size: 14px;
+>>>>>>> 97aa7b41e0a6d6a6cbd45a07c276931aa3453978
 }
 
 
@@ -40,8 +81,12 @@ body {
 	font-size: 24px;
 }
 
+<<<<<<< HEAD
 
 #personal {
+=======
+.personal {
+>>>>>>> 97aa7b41e0a6d6a6cbd45a07c276931aa3453978
 	padding: 1px 15px 1px 15px;
 	margin: 10px 5px 10px 15px;
 	border-radius: 3%;
@@ -52,7 +97,11 @@ body {
 
 }
 
+<<<<<<< HEAD
 #experience {
+=======
+.experience {
+>>>>>>> 97aa7b41e0a6d6a6cbd45a07c276931aa3453978
 	padding: 1px 15px 1px 15px;
 	margin-right: 40px;
 	border-radius: 1%;
@@ -60,11 +109,28 @@ body {
 	width: 50%;
 	float: right;
 	border-bottom: solid 3px #edb330;
+<<<<<<< HEAD
 	
 
 }
 
 #skills {
+=======
+}
+
+
+.job {
+	color: #CA7794;
+}
+
+
+.description {
+	font-size: 14px;
+}
+
+
+.skills {
+>>>>>>> 97aa7b41e0a6d6a6cbd45a07c276931aa3453978
 	padding: 1px 15px 1px 15px;
 	margin: 10px 5px 10px 15px;
 	border-radius: 3%;
@@ -72,11 +138,19 @@ body {
 	display: inline-block;
 	clear: both;
 	border-bottom: solid 3px #edb330;
+<<<<<<< HEAD
 	
 
 }
 
 #education {
+=======
+}
+
+
+
+.education {
+>>>>>>> 97aa7b41e0a6d6a6cbd45a07c276931aa3453978
 	padding: 1px 15px 1px 15px;
 	margin: 10px 5px 10px 15px;
 	border-radius: 3%;
@@ -86,7 +160,11 @@ body {
 	border-bottom: solid 3px #edb330;
 }
 
+<<<<<<< HEAD
 #goals {
+=======
+.goals {
+>>>>>>> 97aa7b41e0a6d6a6cbd45a07c276931aa3453978
 	padding: 1px 15px 1px 15px;
 	margin-right: 40px;
 	margin-bottom: 50px;
@@ -97,10 +175,19 @@ body {
 	border-bottom: solid 3px #edb330;
 }
 
+<<<<<<< HEAD
 .description {
 	font-size: 14px;
 }
 
+=======
+
+header { 
+	text-align: center;
+}
+
+
+>>>>>>> 97aa7b41e0a6d6a6cbd45a07c276931aa3453978
 footer {
 	width: 100%;
 	margin-top: 10px;
@@ -111,6 +198,7 @@ footer {
 
 }
 
+<<<<<<< HEAD
 footer p {
 	color: white;
 	font-size: 20px;
@@ -157,6 +245,13 @@ p, li {
 
 
 /* >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> =UNIVERSAL  */ 
+=======
+body {
+	background-color: #f1f1f1;
+}
+
+
+>>>>>>> 97aa7b41e0a6d6a6cbd45a07c276931aa3453978
 
 * {
 	font-family: helvetica;
@@ -165,6 +260,7 @@ p, li {
 	box-sizing: border-box;
 }
 
+<<<<<<< HEAD
 
 /* >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> =COMMENTS  */ 
 
@@ -173,3 +269,5 @@ p, li {
 
 
 
+=======
+>>>>>>> 97aa7b41e0a6d6a6cbd45a07c276931aa3453978
